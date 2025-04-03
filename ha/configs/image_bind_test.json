@@ -1,0 +1,16 @@
+{
+    "root_dir": "mp/mcm_ood/ha/",
+    "mode": "Eval",
+    "model_name": "imagebind",
+    "run_name": "eval_imagebind",
+    "model_checkpoint": "checkpoints/train_imagebind/fine_tune_dmu_classifier_epoch_10.pth",
+    "batch_size": 32,
+    "data_path_test": "/hpi/fs00/share/fg-doellner/goldenbaum/cache/ucf_test",
+    "num_workers": 0,
+    "num_epochs": 10,
+    "seed": 2025,
+    "a_nums": 32,
+    "n_nums": 32,
+    "clip_length": 8,
+    "embedding_dim": 768
+}

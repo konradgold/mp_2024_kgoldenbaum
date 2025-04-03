@@ -1,0 +1,18 @@
+{
+    "root_dir": "mp/mcm_ood/ha/",
+    "mode": "Train",
+    "lr": 0.0001,
+    "embedding_dim": 768,
+    "model_name": "imagebind",
+    "run_name": "train_imagebind_no_pretrain_ucf_wa",
+    "batch_size": 16,
+    "checkpoint_path": "checkpoints/train_imagebind",
+    "data_path_normal": "/hpi/fs00/share/fg-doellner/goldenbaum/cache/ucf_train_normal",
+    "data_path_anomaly": "/hpi/fs00/share/fg-doellner/goldenbaum/cache/ucf_train_anomaly",
+    "num_workers": 0,
+    "num_epochs": 10,
+    "seed": 2025,
+    "clip_length": 8,
+    "a_nums": 32,
+    "n_nums": 32
+}

@@ -1,0 +1,24 @@
+[
+    {
+        "vehicles": [
+            "There is a car driving", 
+            "somebody rides a bicycle", 
+            "somebody is riding a scooter"
+        ]
+    },
+    {
+        "loitering": [
+            "a person drops a white paper", 
+            "a person drops a black plastic bag", 
+            "a person throws a cigarette butt",
+            "a person puts down a plastic bottle",
+            "a person throws trash on the ground"]
+    },
+    {
+        "movements": [
+            "a person is running",
+            "a person walking in a different direction than most people",
+            "a person is walking in a hurry", 
+            "a person is walking very slowly or standing in the way"]
+    }
+]

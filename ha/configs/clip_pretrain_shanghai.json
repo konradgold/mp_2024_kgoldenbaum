@@ -1,0 +1,20 @@
+{
+    "model_name": "openai/clip-vit-large-patch14",
+    "root_dir": "mp/mcm_ood/ha/",
+    "mode": "Pretrain",
+    "lr": 0.01,
+    "embedding_dim": 768,
+    "run_name": "pretrain_clip_shanghai",
+    "batch_size": 16,
+    "checkpoint_path": "checkpoints/pretrain_clip/shanghai",
+    "data_path_normal": "/hpi/fs00/share/fg-doellner/goldenbaum/cache/shanghai_train",
+    "num_workers": 0,
+    "num_epochs": 10,
+    "seed": 2025,
+    "clip_length": 8,
+    "anomaly_addition": 0.3,
+    "a_nums": 32,
+    "n_nums": 32,
+    "anomaly_description": "utils/assets/anomaly_description_shanghai.json",
+    "attention": 1
+}

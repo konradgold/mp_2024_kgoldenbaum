@@ -1,0 +1,93 @@
+[
+    {
+        "Abuse": [
+            "Some men push another person", 
+            "a man hits another person with a baseball bat", 
+            "a person is pushed to the ground", 
+            "a group of people do not let another person pass"]
+    },
+    {
+        "Arson": [
+            "fire errupts, with smoke", 
+            "the central object catches fire", 
+            "a person lights a fire", 
+            "a person throws a molotov cocktail"]
+    },
+    {
+        "Assault": [
+            "a person is hit in the face",
+            "a person is hit with a stick or bottle", 
+            "a person is hit with a car",
+            "a woman is pulled at her hair"]
+    },
+    {
+        "Arrest": [
+            "two policemen push a person to the ground", 
+            "a person in handcuffs is taken away", 
+            "a person is handcuffed", 
+            "a person is put into a car by the police"]
+    },
+    {
+        "Burglary": [
+            "they open a door and enter conspicuously", 
+            "they carry something out of a building", 
+            "they climb over a fence and enter a building", 
+            "they wear a mask and break a window"]
+    },
+    {
+        "Explosion": [
+            "a bunch of objects are suddenly broken and moved very quickly", 
+            "a person is thrown to the ground", 
+            "a car is pushed by a pressure wave", 
+            "smoke and dust are thrown into the air"]
+    },
+    {
+        "Fighting": [
+            "two people punsh each other, one of them goes to the ground", 
+            "a group of people hold another person that tries to attack somebody", 
+            "a person is hit in the face", 
+            "a person is hit with a stick"]
+    },
+    {
+        "Robbery": [
+            "a person hands over a purse to two other people", 
+            "a person is intimidated and gives over some items", 
+            "a person is pushed to the ground and robbed", 
+            "a person is threatened with a knife and gives over some items"]
+    },
+    {
+        "Shooting": [
+            "somebody holds a small device and a spark happens, people are reacting afraid", 
+            "people are running away, one person lies on the ground", 
+            "military people are ducking", 
+            "a person is hit and falls to the ground"]
+    },
+    {
+        "Shoplifting": [
+            "two people with bags and a knife enter a store", 
+            "the cashier gives money to a person",
+            "a person puts something in a bag and rushes out of the store",
+            "the cashier is threatened with a knife"]
+    },
+    {
+        "Stealing": [
+            "they grab something and put it in a pocket", 
+            "they touch sombody and put  something in a bag", 
+            "they grab something and run away", 
+            "they grab something and leave the store"]
+    },
+    {
+        "Vandalism": [
+            "They throw a stone againt a window", 
+            "They spray paint on a wall", 
+            "They spit on something", 
+            "They scratch the side of a car"]
+    },
+    {
+        "RoadAccident": [
+            "The car drifts without stopping", 
+            "a car hits another car", 
+            "a car hits a pedestrian", 
+            "a biker falls to the ground"]
+    }
+]
